@@ -1,0 +1,67 @@
+.navbar-brand {
+    font-size: 1.7rem !important;
+    margin-left: 1rem;
+    margin-top: 0.75rem;;
+}
+
+.nav-item {
+    font-size: 1.55rem;
+    padding: 10px;
+    margin-right: 1rem;
+}
+
+.jumbotron {
+    background-color: yellow;
+}
+
+.flexbox-gal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 200px;   
+}
+
+img {
+    margin: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+.about {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p {
+    max-width: 600px;
+    text-align: end;
+    font-size: 1.75rem;
+    margin: 10px;
+}
+
+.sign {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+    
+.form-center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-control {
+    min-width: 300px;
+    text-align: center;
+    margin-bottom: 100px;
+}
